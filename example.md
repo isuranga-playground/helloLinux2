@@ -28,3 +28,10 @@ This Bold and Italic Text
 __This is still a Bold text__<br>
 _This is still an Italic text_<br>
 ***This Bold and Italic Text***
+
+visit [Google](https://google.lk) \
+visit [IJSE](https://ijse.lk/)
+
+* 1<sup>st</sup> Item
+* 2<sup>nd</sup> Item
+* 3<sup>rd</sup> Item
