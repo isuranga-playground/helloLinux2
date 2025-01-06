@@ -35,3 +35,12 @@ visit [IJSE](https://ijse.lk/)
 * 1<sup>st</sup> Item
 * 2<sup>nd</sup> Item
 * 3<sup>rd</sup> Item
+* 4<sup>th</sup> Item
+
+![Alternative Text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)
+
+<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png" alt="This is a alternative text">
+
+![](img/clear.png)
+
+### <span style="color: blue">This is a Heading</span>
